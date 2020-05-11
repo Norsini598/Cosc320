@@ -1,4 +1,0 @@
-Convex not enclosed. Connection external nodes not flushed thoroughly.
-GetMiddle- if the same distance as GetClosest returns the same point,
-try to figure out a unqiue solution to this. As this makes a triangle
-have only 2 unqiue points- thus not a triangle.
